@@ -1,5 +1,6 @@
 soong_namespace {
     imports: [
-        "hardware/qcom-caf/sm6225"
+        "hardware/qcom-caf/sm6225",
+        "hardware/qcom-caf/sm6225/dataipa",
     ],
 }
